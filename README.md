@@ -9,4 +9,6 @@ The program also displays in an increment counter how many students have failed 
 The user is also able to import other .txt files and .log files at their leisure to see other classes statistics and can compare percentages with 2 or more classes.
 
 
+
+
 <img width="632" alt="yes" src="https://user-images.githubusercontent.com/46412260/71872568-d60edc00-30ea-11ea-8aee-783cdaaf2c41.png">
