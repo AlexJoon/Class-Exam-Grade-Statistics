@@ -1,0 +1,47 @@
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe.config
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.pdb
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.xml
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbprojAssemblyReference.cache
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Form1.resources
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Resources.resources
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbproj.GenerateResource.cache
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbproj.CoreCompileInputs.cache
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.exe
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.xml
+C:\Users\surfacepro3\Desktop\Classworks\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.pdb
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe.config
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.pdb
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.xml
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbprojAssemblyReference.cache
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Form1.resources
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Resources.resources
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbproj.GenerateResource.cache
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbproj.CoreCompileInputs.cache
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.exe
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.xml
+C:\Users\surfacepro3\Desktop\AlekseyP_Lab_3\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.pdb
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe.config
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.pdb
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.xml
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbprojAssemblyReference.cache
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Form1.resources
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Resources.resources
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbproj.GenerateResource.cache
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbproj.CoreCompileInputs.cache
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.exe
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.xml
+C:\Users\surfacepro3\Desktop\Class Grade Exam Statistics\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.pdb
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe.config
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.exe
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.pdb
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\bin\Debug\AlekseyP_Lab_3.xml
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbprojAssemblyReference.cache
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Form1.resources
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.Resources.resources
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.vbproj.GenerateResource.cache
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.exe
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.xml
+C:\Users\przhe\Desktop\Class Grade Exam Statistics (VB.net)\AlekseyP_Lab_3\AlekseyP_Lab_3\obj\Debug\AlekseyP_Lab_3.pdb
